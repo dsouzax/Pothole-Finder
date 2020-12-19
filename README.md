@@ -20,7 +20,7 @@ The objective is to make transparency to people about the solution or ongoing wo
 <img src="images/Login.jpeg" width="230" height="500">
 
 3. Now you can access the Map 
-<img src="images/Map.jpeg" width="230" height="500">
+<img src="images/Map.jpg" width="230" height="500">
 
 4. Also you can report a pothole mannually by filling a form.
    You can access the form from menu at top right corner, Click on "Report a Pothole" and form will open.
